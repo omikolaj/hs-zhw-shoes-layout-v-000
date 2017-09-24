@@ -23,7 +23,7 @@
 }
 
 /* Posititoning Classes */
-.shadow img{
+.wrapper:nth-child(2){
   width: 66.66%
 }
 .sha
