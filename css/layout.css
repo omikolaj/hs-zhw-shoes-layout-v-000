@@ -33,7 +33,7 @@
   float: right;
 }
 .lady-bugs{
-  clear: both;
+  clear: top;
   width: 33.33%;
 }
 .skaters{
