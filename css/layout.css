@@ -23,5 +23,7 @@
 }
 
 /* Posititoning Classes */
-
+.shadow:nth-child(2){
+  width: 66.66%
+}
 
