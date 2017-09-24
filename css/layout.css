@@ -33,12 +33,14 @@
   float: right;
 }
 .lady-bugs{
+  float:left;
   clear: both;
   width: 31.33%;
 }
 .skaters{
   width: 31.33%;
   float: left;
+  cla
 }
 
 .bluestar-heels{
