@@ -23,7 +23,7 @@
 }
 
 /* Posititoning Classes */
-div.wrapper:nth child(2){
+.wrapper:nth-child(2){
   width: 66.66%
 }
 .sha
