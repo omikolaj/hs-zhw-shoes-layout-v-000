@@ -39,21 +39,21 @@
 
 .lady-bugs{
   float: left;
-  width: 31.33%;
+  width: 33.33%;
   display:block;
   margin: 10px 20px 10px 0;
 
 }
 .skaters{
-  width: 31.33%;
+  width: 33.33%;
   float: left;
   display: block;
   margin: 10px 20px 0 10px;
 }
 
 .bluestar-heels{
-  width: 31.33%;
+  width: 33.33%;
   float: left;
   display: block;
-  margin: 0
+  margin: 10px 
 }
