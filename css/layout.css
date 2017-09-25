@@ -23,11 +23,13 @@
 }
 
 /* Posititoning Classes */
+.deals{
+  margin-top: 2%;
+}
 
 .col-1{
   float: left;
   width: 32%;
-
 
 }
 .col-2{
