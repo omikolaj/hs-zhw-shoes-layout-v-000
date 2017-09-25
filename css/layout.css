@@ -45,39 +45,3 @@
   margin-left: 0%;
 }
 
-.summer-grass{
-  width: 66.66%;
-  float: left;
-  display: block;
-  margin-bottom: 1%;
-}
-
-.shoe-archive{
-  width: 31.33%;
-  float: right;
-  display:block;
-  margin: 1%;
-
-}
-
-.lady-bugs{
-  clear:both;
-  float: left;
-  width: 31.33%;
-  display:block;
-  margin: 1%;
-
-}
-.skaters{
-  width: 31.33%;
-  float: left;
-  display: block;
-
-}
-
-.bluestar-heels{
-  width: 31.33%;
-  float: left;
-  display: block;
-  margin: 1%;
-}
