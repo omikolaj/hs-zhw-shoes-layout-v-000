@@ -26,6 +26,7 @@
 .summer-grass{
   width: 65.66%;
   float: left;
+  display: inline-block;
 
 }
 
