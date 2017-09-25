@@ -34,9 +34,7 @@
   width: 31.33%;
   float: right;
   display:block;
-
-
-
+  margin: 1%;
 }
 
 .lady-bugs{
@@ -44,7 +42,7 @@
   float: left;
   width: 31.33%;
   display:block;
-
+  margin: 1%;
 
 }
 .skaters{
