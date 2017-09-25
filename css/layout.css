@@ -46,6 +46,7 @@
 .skaters{
   width: 31.33%;
   float: left;
+  display: block;
 
 }
 
